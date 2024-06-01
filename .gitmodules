@@ -1,0 +1,3 @@
+[submodule "ds-intro"]
+	path = ds-intro
+	url = https://gitlab.skillbox.ru/nikita_fomin/ds-intro
